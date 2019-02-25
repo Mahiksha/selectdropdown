@@ -23,5 +23,5 @@ public void second(){
 public void third(){
 	System.out.println("third");
 }
-
+/*good right*/
 }
